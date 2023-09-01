@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tavDrRcvxehbNFYWdobUBpt0jGJ1vvye/2fjIV5Qzd/YNB6hXLPuIAXmkSrldqGE82RzaLb2QSgQilWusNxFFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josel\\OneDrive\\Escritorio\\Taller de Programac. II\\source\\repos\\Practicos 4 y 5\\practico4y5\\practico4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josel\\.nuget\\packages\\winforms.datavisualization\\1.8.0\\winforms.datavisualization.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
